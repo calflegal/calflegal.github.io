@@ -4,3 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+{% for post in site.posts limit:1 %}
+ {{ content  }}
+{% endfor %}
