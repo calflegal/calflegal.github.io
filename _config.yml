@@ -22,6 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "https://calvinflegal.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: calflegal
 github_username:  calflegal
+title: "Calvin Flegal"
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-tactile
