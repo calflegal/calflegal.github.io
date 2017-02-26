@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+form {
+  background: none;
+}
+ul li{
+  list-style: none;
+}
+#post_list h1 {
+  font-weight: 600;
+}
+p {
+  margin-top: 20px;
+}
+h1 {
+  margin: 20px 0;
+}

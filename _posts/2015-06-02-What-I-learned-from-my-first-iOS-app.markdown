@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title:  "What I learned from building my first iOS app"
-date:   2015-06-02 19:31:00
+date:   2015-06-02
 categories: iOS
 ---
 Almost a year ago I built and launched an app for iOS. That app is called [tuneUp](https://itunes.apple.com/us/app/tuneup-lite-intonation-ear/id884607905?mt=8). Find the free version [here](https://itunes.apple.com/us/app/tuneup-lite-intonation-ear/id884607905?mt=8), and the paid version [here](https://itunes.apple.com/us/app/tuneup-pro-intonation-ear/id968587287?mt=8). It is important to note that I basically wanted to build and ship the *simplest useful app I could think of*, because my other efforts had seemed to have trouble getting out the door. Here’s a collection of some important lessons from that process.

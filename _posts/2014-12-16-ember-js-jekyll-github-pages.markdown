@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title:  "Ember.js (Ember CLI) and Jekyll on GitHub Pages"
-date:   2014-12-16 19:14:43
+date:   2014-12-16
 categories: jekyll ember
 ---
 **EDIT:** The easiest way to do this these days is likely to use the [ember-cli addon](https://github.com/poetic/ember-cli-github-pages)
