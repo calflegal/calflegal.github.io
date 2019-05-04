@@ -19,13 +19,12 @@ hopefully become part of a larger suite of music tools.</span>
 
 Note Collider
 ------------
-<a
-href="https://itunes.apple.com/us/app/notecollider-physics-based-music-generator/id1136494037?ls=1&mt=8" class="app-link" style="display: flex;" >
-![Note Collider]({{site.url}}/assets/images/note-collider.jpg "Note Tuning")
-<span class="app-description">This one is really just an experiment, but I think
+<div style="display: flex" class="app-link">
+<img src="{{site.url}}/assets/images/note-collider.jpg" />
+<span class="app-description"> <p>*Stopped playing audio, removed from production (until I have time to repair)* </p>This one is really just an experiment, but I think
 it's kind of neat. It generates music / sound and over controls over the physics
 and tonality.</span>
-</a>
+</div>
 <hr />
 
 Tune Up
