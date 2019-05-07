@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-{% assign post = site.posts.first %}
-  <header class="post-header">
-    <a href="{{post.url}}"><h1 class="post-title">{{ post.title }}</h1></a>
-  </header>
-{{ post.content }}
+<div class="post">
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+</div>
