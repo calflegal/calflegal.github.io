@@ -1,5 +1,6 @@
 ---
 layout: about
+redirect_from: "/about"
 ---
 Hi there, I'm Calvin. I'm a software engineer and musician, and I try to be a nice guy. Lately I'm mostly a JavaScripter, but more broadly I like ownership of products that people like to use. If you want to get in touch, the best ways are email to calvin.flegal at gmail,
 or through [twitter](https://twitter.com/calflegal). I'd also be thrilled if you 

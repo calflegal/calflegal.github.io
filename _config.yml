@@ -26,8 +26,9 @@ title: "Calvin Flegal"
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-tactile
-gems:
+plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 exclude:
   - Gemfile
   - Gemfile.lock
