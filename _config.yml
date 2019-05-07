@@ -16,8 +16,8 @@
 title: Calvin Flegal
 google_analytics: UA-56620821-2
 # email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  A place for my dumb thoughts
+# description: > # this means to ignore newlines until "baseurl:"
+  # A place for my dumb thoughts
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://calvinflegal.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: calflegal
