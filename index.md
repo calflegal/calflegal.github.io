@@ -2,17 +2,16 @@
 layout: about
 redirect_from: "/about"
 ---
-Hi there, I'm Calvin. I'm a software engineer and musician, and I try to be a nice guy. 
-I like ownership of products that people like to use. I suppose my strongest skills lately are Javascript / TypeScript, 
-but I like all kinds of engineering. If you want to get in touch, the best ways are email to calvin.flegal at gmail,
-or through [twitter](https://twitter.com/calflegal). I'd also be thrilled if you 
-subscribed to my mailing list at the bottom of this page. I don't expect to be bothering you too
-often. Here are a few little projects I've done in my free time:
+
+Hi there, I'm Calvin. I'm a software engineer and musician, and I try to be a nice guy.
+I like ownership of products that people like to use. I suppose my strongest technical skills are somewhere around TypeScript / JavaScript,
+but I like all kinds of engineering. If you want to get in touch, the best way
+to do that would be email to calvin.flegal at gmail. Here are a few little side projects I've done in my free time, of varying states of completeness / maintenance / brokenness:
 
 <hr />
 
-Note Tuning
------------
+## Note Tuning
+
 <a href="https://www.notetuning.com" class="app-link" style="display: flex;" >
 ![Note Tuning]({{site.url}}/assets/images/note-tuning.png "Note Tuning")
 <span class="app-description">A challenging ear training game that will
@@ -20,8 +19,8 @@ hopefully become part of a larger suite of music tools.</span>
 </a>
 <hr />
 
-Note Collider
-------------
+## Note Collider
+
 <div style="display: flex" class="app-link">
 <img src="{{site.url}}/assets/images/note-collider.jpg" />
 <span class="app-description"> <p>*Stopped playing audio, removed from production (until I have time to repair)* </p>This one is really just an experiment, but I think
@@ -30,14 +29,11 @@ and tonality.</span>
 </div>
 <hr />
 
-Tune Up
------------
+## Tune Up
+
 <a
 href="https://itunes.apple.com/us/app/tuneup-lite-intonation-ear-training-game/id884607905?ls=1&mt=8" class="app-link" style="display: flex;" >
 ![Tune Up]({{site.url}}/assets/images/tune-up.jpg "Note Tuning")
 <span class="app-description">My very first foray into iOS Apps, a dead simple
 ear training game.</span>
 </a>
-<hr />
-
- <form style="padding:3px;text-align:center;" action="https://tinyletter.com/calflegal" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/calflegal', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p>I respect your privacy.</p><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
