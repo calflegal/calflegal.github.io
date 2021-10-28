@@ -2,6 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+body {
+  color: #343434;
+}
 form {
   background: none;
 }
@@ -24,4 +27,7 @@ h1 {
 }
 .app-description {
   padding-left: 20px;
+}
+.post-content a {
+  text-decoration: underline;
 }
