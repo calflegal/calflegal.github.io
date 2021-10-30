@@ -1,6 +1,7 @@
 ---
 layout: about
 redirect_from: "/about"
+title: Calvin Flegal
 ---
 
 Hi there, I'm Calvin. I'm a software engineer and musician, and I try to be a nice guy.

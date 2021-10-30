@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Building Paper Audio with NestJS, Jovo, and React"
-date: 2021-10-27
+date: 2021-11-01
 ---
 
 [Paper Audio](https://paperaudio.com) is my most recent side project. I have often thought that musicians should share their work earlier and more often, and Paper Audio is my attempt at supporting this kind of sharing.
@@ -50,8 +50,18 @@ Building in public has become a very popular strategy, and it makes sense. If yo
 
 I've done _some_ work to recruit users, but I should have been writing and talking about Paper Audio even before I started the tech work. I could've done what so many do and explained the product with a splash page and worked to develop a user base, so that I'd have users at 'launch', and so that I'd more likely build what users might want. It also would've helped keep me motivated and excited about the project.
 
+### Captcha? Really??
+
+At the last minute before 'launching', I had to add Captcha to the sign up form.
+I was getting hundreds of emails sent per day from my server from stupid bots
+filling in my email form. It's really annoying, and I still can't understand how
+the incentives could be there for anybody to deploy these crappy scripts to just
+pollute the internet with garbage. I could've used Auth0 for user management to
+avoid this issue, but my simple sign up flow was generally working, so I decided
+to make the UX a little worse with the Captcha approach to avoid the abuse.
+
 ### The need to ship known bugs & imperfections
 
 This is a tough one. There are _lots_ of known issues. My favorite is a timezone bug: Alexa and Google Home will change to the next day's demo at midnight UTC, while the web app behaves the way one might expect in that it will change at midnight browser time. It turns out it's not quite _that_ easy to get the local time of both Alexa _and_ Google devices. And of course, this is far from the only issue in the project. The perfect is the enemy of the good, and if nobody ever uses your product, the bugs don't matter at all!
 
-If you liked this, consider following me on Twitter!
+If you liked this, consider following me on [Twitter](https://twitter.com/calflegal)!

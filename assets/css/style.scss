@@ -3,13 +3,10 @@
 
 @import "{{ site.theme }}";
 body {
-  color: #343434;
+  color: #030303;
 }
 form {
   background: none;
-}
-ul li{
-  list-style: none;
 }
 #post_list h1 {
   font-weight: 600;
@@ -19,6 +16,9 @@ p {
 }
 h1 {
   margin: 20px 0;
+}
+ul li {
+  list-style: none;
 }
 .app-link {
   text-decoration: none;
@@ -30,4 +30,12 @@ h1 {
 }
 .post-content a {
   text-decoration: underline;
+}
+.post-content {
+  ul {
+    margin-left: 20px;
+  }
+  ul li {
+    list-style: square;
+  }
 }
