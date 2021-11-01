@@ -21,14 +21,16 @@ width="150px" />
 short mp3 demos and potentially have their demos featured via Alexa and Google
 Home.</span>
 </a>
+<span>
+[Read about the building of Paper Audio]({{ site.baseurl }}{% link _posts/2021-11-01-building-paper-audio-with-nestjs-jovo-react.markdown %})
+</span>
 
 <hr />
 ## Note Tuning
 
 <a href="https://www.notetuning.com" class="app-link" style="display: flex; text-decoration: none" >
 ![Note Tuning]({{site.url}}/assets/images/note-tuning.png "Note Tuning")
-<span class="app-description">A challenging ear training game that will
-hopefully become part of a larger suite of music tools.</span>
+<span class="app-description">A challenging ear training game.</span>
 </a>
 <hr />
 
