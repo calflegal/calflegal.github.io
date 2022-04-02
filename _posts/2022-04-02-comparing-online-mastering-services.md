@@ -23,7 +23,8 @@ Use Uncompressed WAVs
 </label>
 
 <div>
-<h2>Metropolis (what I'm publishing)</h2>
+<h2>Metropolis (what I'm publishing) - mastering done by an engineer at the
+studio</h2>
 <div class="wavesurfer" id="metropolis">
 <div id="waveform" />
 <button id="playpause">Play / Pause</button>
@@ -31,7 +32,7 @@ Use Uncompressed WAVs
 </div>
 
 <div>
-<h2>Cloudbounce</h2>
+<h2>Cloudbounce - e-mastering - "Rock / Pop" settings</h2>
 <div class="wavesurfer" id="cloudbounce">
 <div id="waveform" />
 <button id="playpause">Play / Pause</button>
@@ -39,7 +40,7 @@ Use Uncompressed WAVs
 </div>
 
 <div>
-<h2>Landr</h2>
+<h2>Landr - e-mastering - "Balanced / Medium" settings</h2>
 <div class="wavesurfer" id="landr">
 <div id="waveform" />
 <button id="playpause">Play / Pause</button>
@@ -47,7 +48,7 @@ Use Uncompressed WAVs
 </div>
 
 <div>
-<h2>SoundCloud</h2>
+<h2>SoundCloud - e-mastering - "Clear Sky @ 73 percent"</h2>
 <div class="wavesurfer" id="soundcloud">
 <div id="waveform" />
 <button id="playpause">Play / Pause</button>
@@ -70,8 +71,34 @@ Use Uncompressed WAVs
 </div>
 </div>
 
-<div>
 <h2>My Conclusions & Opinions</h2>
-</div>
+Mastering is a tough thing to do. The "Loudness Wars" make it very easy to
+ruin your mixes by trying to be as loud as what's on the radio, etc. It's also a
+subtle art -- it may be tough for some to hear differences between these.
+
+My favorite master here is the Metropolis one. However, at around $100 per
+track, Metropolis can be somewhat expensive compared to the e-mastering options above, each of which are
+a cheap $5-$10 per song at the time of writing.
+
+Of the 3 e-masters, CloudBounce is my favorite, though I find it to be
+overly distorted.
+
+I also find the Landr track to be too distorted (listen to the
+midranges to more easily sense the distortion).
+
+The SoundCloud master is my least favorite. The midrange and vocal sound tinny
+and strange to me.
+
+All 3 e-masters could be changed through their parameters, so don't take these
+results to be exhaustive.
+
+I'm also somewhat happy the results of my own attempt at a super simple mastering
+approach. Moving forward, I think my process is going to be to use CloudBounce (probably
+set to "less loud") compared to my own approach, and then I'll save my final
+mixes and bring a professional like those at Metropolis in when I want to make
+something that isn't a quick budget single.
+
+Comment on HackerNews, or find me on [Twitter](https://twitter.com/calflegal)
+
 <script src="https://unpkg.com/wavesurfer.js"></script>
 <script src="{{site.url}}/assets/js/mastering-page.js" />
