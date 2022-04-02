@@ -4,12 +4,15 @@ redirect_from: "/about"
 title: Calvin Flegal
 ---
 
-Hi there, I'm Calvin. I'm a software engineer and musician, and I try to be a nice guy. Right now I'm an engineer at Spotify.
-I like ownership of products that people like to use. I suppose my strongest technical skills are somewhere around TypeScript / JavaScript,
-but I like all kinds of engineering. If you want to get in touch, the best way
-to do that would be email to calvin.flegal at gmail. Here are a few little side projects I've done in my free time, of varying states of completeness / maintenance / brokenness:
+<p style="max-width: 800px">
+  Hi there, I'm Calvin. I'm a software engineer and musician, and I try to be a nice person. Right now I'm an engineer at Spotify. If you want to check out my music, the best place is probably <a href="https://open.spotify.com/artist/16MSVHbEEVtCo1G9QjyQAs?si=WCtmXwbJRoqkOqljBYe7dQ" target="_blank">On Spotify</a>. I suppose my strongest technical skills are somewhere around TypeScript / JavaScript,
+  but I like all kinds of engineering. If you want to get in touch, the best way
+  to do that would be email to calvin.flegal at gmail.
+</p>
 
 <hr />
+
+<h3 style="margin-bottom: 20px">A mix of projects past and present. Warning, some are dead and gone:</h3>
 
 ## Paper Audio
 
