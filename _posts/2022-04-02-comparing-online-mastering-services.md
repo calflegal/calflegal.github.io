@@ -98,7 +98,5 @@ set to "less loud") compared to my own approach, and then I'll save my final
 mixes and bring a professional like those at Metropolis in when I want to make
 something that isn't a quick budget single.
 
-Comment on HackerNews, or find me on [Twitter](https://twitter.com/calflegal)
-
 <script src="https://unpkg.com/wavesurfer.js"></script>
 <script src="{{site.url}}/assets/js/mastering-page.js" />
