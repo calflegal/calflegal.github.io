@@ -14,6 +14,15 @@
     {% assign title = page.title | default: site.title %}
     <title>{{ title | default: site.github.repository_name }}</title>
   </head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0RE1NYGT5E"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0RE1NYGT5E');
+</script>
 
   <body>
     <div id="container">
@@ -55,17 +64,5 @@
 
       </div>
     </div>
-
-    {% if site.google_analytics %}
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-56620821-2"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-56620821-2');
-</script>
-    {% endif %}
   </body>
 </html>
