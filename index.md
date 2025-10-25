@@ -14,6 +14,19 @@ title: Calvin Flegal
 
 ## Music Mini Games
 
+<a href="https://musicminigames.com" class="app-link" style="display: flex;
+text-decoration: none" >
+<img src="{{site.url}}/assets/images/app-icon.png" height="150px"
+width="150px" />
+<span class="app-description">Music Mini Games - A collection of musical games to help you level up.</span>
+</a>
+
+<a href="https://apps.apple.com/us/app/musicminigames/id6752395649" style="display: inline-block; margin-top: 10px;">
+<img src="{{site.url}}/assets/images/app_store_badge.svg" height="40px" alt="Download on the App Store" />
+</a>
+
+<hr />
+
 ## Paper Audio
 
 <a href="https://paperaudio.com" class="app-link" style="display: flex;
