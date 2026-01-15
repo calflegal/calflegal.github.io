@@ -18,7 +18,7 @@ title: Calvin Flegal
 text-decoration: none" >
 <img src="{{site.url}}/assets/images/arrow-game-logo.svg" height="150px"
 width="150px" />
-<span class="app-description">Migo Games: Arrow - A real-time multiplayer arrow shooter where players compete to hit falling colored circles. Arrow is the first game in the Migo Games collection, with more to come.</span>
+<span class="app-description">Migo Games: Arrow - A real-time multiplayer arrow shooter where players compete to hit falling colored circles. Arrow is the first game in the Migo Games collection, with more to come. Built with Elixir and Phoenix, which was a nice opportunity to learn with assistance from Claude.</span>
 </a>
 
 <hr />
