@@ -12,6 +12,17 @@ title: Calvin Flegal
 
 <h3 style="margin-bottom: 20px">A mix of projects past and present. Warning, some are dead and gone:</h3>
 
+## Migo Games: Arrow
+
+<a href="https://migo.games/arrow" class="app-link" style="display: flex;
+text-decoration: none" >
+<img src="{{site.url}}/assets/images/arrow-game-logo.svg" height="150px"
+width="150px" />
+<span class="app-description">Migo Games: Arrow - A real-time multiplayer arrow shooter where players compete to hit falling colored circles. Arrow is the first game in the Migo Games collection, with more to come.</span>
+</a>
+
+<hr />
+
 ## Music Mini Games
 
 <a href="https://musicminigames.com" class="app-link" style="display: flex;
