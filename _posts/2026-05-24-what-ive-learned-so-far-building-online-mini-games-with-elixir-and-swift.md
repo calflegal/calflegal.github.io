@@ -24,4 +24,4 @@ Really none of this would have been possible without AI, so really I'm pretty gr
 
 This isn't to say that AI has solved everything. All the hardest parts of making successful software are still here. One of them is of course finding users/distribution. The clanker can't really match my software to people from my repo. Bummer. In fact, there's so much more software being written now that this problem is actually harder! The Apple app count growth in the last year has posted incredible numbers.
 
-That's all for now I guess. Give the games a shot. Leave a nice review in the App Store if you're up for it. Happy building. Discuss on HN if you'd like.
+That's all for now I guess. Give the games a shot. Leave a nice review in the App Store if you're up for it. Happy building. [Discuss on HN](https://news.ycombinator.com/item?id=48256053) if you'd like.
