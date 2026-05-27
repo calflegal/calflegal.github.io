@@ -4,7 +4,7 @@ title: "What I've Learned (So Far) Building Online Mini Games with Elixir and Sw
 date: 2026-05-24
 ---
 
-My most recent side project is a little social arcade called Migo Games. You can check it out on the [App Store for Mac and iOS](https://apps.apple.com/us/app/migo-games/id6758592333). You can also play one of the games on the web at [migo.games](https://migo.games).
+My most recent side project is a little social arcade called Migo Games. You can check it out on the [App Store for Mac and iOS](https://apps.apple.com/us/app/migo-games/id6758592333). ~~You can also play one of the games on the web at [migo.games](https://migo.games).~~ EDIT: sorry, I removed the web client to focus on less code. 
 
 It goes without saying that a lot has changed in the age of AI coding. I really can't say I wrote _any_ of the code. Keep in mind the date of publication of this post as well. Whatever I say about AI is likely to be out of date within weeks or months.
 
@@ -18,7 +18,9 @@ I could and maybe should say more about the architecture, but I'll leave that fo
 
 Also, I would encourage others to target Mac in addition to iOS for a reason you might not expect: build times. The simulators and Xcode are really pretty slow. It's all a lot faster if you're targeting Mac.
 
-In the times before AI, I probably would have principally targeted the web. But in truth, and this is especially true of the iPhone, the web has really disappointed me in terms of performance when compared to native. It's always outdone by native. You can even try this yourself with Migo! Play [Arrow on the web](https://migo.games/arrow) then go try it on the native iPhone version. The cute haptics, the full screen, the animations, it's really just not close.
+In the times before AI, I probably would have principally targeted the web. But in truth, and this is especially true of the iPhone, the web has really disappointed me in terms of performance when compared to native. It's always outdone by native. ~~You can even try this yourself with Migo! Play [Arrow on the web](https://migo.games/arrow) then go try it on the native iPhone version.~~ The cute haptics, the full screen, the animations, it's really just not close.
+
+EDIT: Same reason as above, removed to focus codebase. 
 
 Really none of this would have been possible without AI, so really I'm pretty grateful to be building software in this era. There are things I miss about the before times. Coaching clankers isn't as prone to flow as writing syntax yourself. Oh well.
 
