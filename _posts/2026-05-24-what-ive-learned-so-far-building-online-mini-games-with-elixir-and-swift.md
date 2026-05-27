@@ -24,6 +24,6 @@ EDIT: Same reason as above, removed to focus codebase.
 
 Really none of this would have been possible without AI, so really I'm pretty grateful to be building software in this era. There are things I miss about the before times. Coaching clankers isn't as prone to flow as writing syntax yourself. Oh well.
 
-This isn't to say that AI has solved everything. All the hardest parts of making successful software are still here. One of them is of course finding users/distribution. The clanker can't really match my software to people from my repo. Bummer. In fact, there's so much more software being written now that this problem is actually harder! The Apple app count growth in the last year has posted incredible numbers.
+This isn't to say that AI has solved everything. All the hardest parts of making successful software are still here. One of them is of course finding users/distribution. The clanker can't really match my software to people from my repo. Bummer. In fact, there's so much more software being written now that this problem is actually harder! I saw a chart showing tge explosion of number of apps in the app store from AI. Crazy stuff.
 
 That's all for now I guess. Give the games a shot. Leave a nice review in the App Store if you're up for it. Happy building. [Discuss on HN](https://news.ycombinator.com/item?id=48256053) if you'd like.
