@@ -5,7 +5,7 @@ title: Calvin Flegal
 ---
 
 <p style="max-width: 800px">
-  Hi there, I'm Calvin. I'm a software engineer and musician, and I try to be a nice person. In my career I consider myself a "full stack engineer", for whatever that's worth. These days that's a lot of TypeScript. For now, I'm most excited about Music Mini Games (see below)</p>
+  Hi there, I'm Calvin. I'm a software engineer and musician, and I try to be a nice person. In my career I consider myself a "full stack engineer", for whatever that's worth.</p>
 
 
 <hr />
