@@ -12,6 +12,21 @@ title: Calvin Flegal
 
 <h3 style="margin-bottom: 20px">A mix of projects past and present. Warning, some are dead and gone:</h3>
 
+## Music Mini Games
+
+<a href="https://musicminigames.com" class="app-link" style="display: flex;
+text-decoration: none" >
+<img src="{{site.url}}/assets/images/music-mini-games-blue-icon.svg" height="150px"
+width="150px" />
+<span class="app-description">Music Mini Games - A collection of musical games to help you level up.</span>
+</a>
+
+<a href="https://apps.apple.com/us/app/musicminigames/id6752395649" style="display: inline-block; margin-top: 10px;">
+<img src="{{site.url}}/assets/images/app_store_badge.svg" height="40px" alt="Download on the App Store" />
+</a>
+
+<hr />
+
 ## Migo Games: Arrow
 
 <a href="https://migo.games/arrow" class="app-link" style="display: flex;
@@ -19,21 +34,6 @@ text-decoration: none" >
 <img src="{{site.url}}/assets/images/arrow-game-logo.svg" height="150px"
 width="150px" />
 <span class="app-description">Migo Games: Arrow - A real-time multiplayer arrow shooter where players compete to hit falling colored circles. Arrow is the first game in the Migo Games collection, with more to come. Built with Elixir and Phoenix, which was a nice opportunity to learn with assistance from Claude.</span>
-</a>
-
-<hr />
-
-## Music Mini Games
-
-<a href="https://musicminigames.com" class="app-link" style="display: flex;
-text-decoration: none" >
-<img src="{{site.url}}/assets/images/app-icon.png" height="150px"
-width="150px" />
-<span class="app-description">Music Mini Games - A collection of musical games to help you level up.</span>
-</a>
-
-<a href="https://apps.apple.com/us/app/musicminigames/id6752395649" style="display: inline-block; margin-top: 10px;">
-<img src="{{site.url}}/assets/images/app_store_badge.svg" height="40px" alt="Download on the App Store" />
 </a>
 
 <hr />
